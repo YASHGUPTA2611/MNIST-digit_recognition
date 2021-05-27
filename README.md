@@ -1,6 +1,6 @@
 # MNIST-digit_recognition
 
-In this we have made a deep learning model for Handwritten digit recognition.
+In this I have made a deep learning model for Handwritten digit recognition.
 
 The dataset is been taken from the MNIST database. It has a training set of 60,000 examples, and a test set of 10,000 examples. It is a subset of a larger set available from NIST. 
 
